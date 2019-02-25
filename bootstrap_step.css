@@ -3,7 +3,7 @@ html{
 }
 
 body {
-  background-image: url("header.jpg");
+  background-image: url("header(2).jpg");
   height: 100%;
   /* 背景は細くなっても複数枚にならず、背景全体に１枚が真ん中になる */
   background-repeat:no-repeat;
